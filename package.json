@@ -1,0 +1,27 @@
+{
+  "name": "vue-svg-dynamic-loader",
+  "version": "1.0.0",
+  "description": "Loads SVG File dynamically as a component in vue.js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eXpresser-UXM/vue-svg-dynamic-loader.git"
+  },
+  "keywords": [
+    "vuejs",
+    "svg"
+  ],
+  "author": "eXpresser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eXpresser-UXM/vue-svg-dynamic-loader/issues"
+  },
+  "homepage": "https://github.com/eXpresser-UXM/vue-svg-dynamic-loader#readme",
+  "devDependencies": {
+    "vue-svg-loader": "^0.15.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
